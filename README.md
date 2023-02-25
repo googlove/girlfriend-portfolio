@@ -1,3 +1,3 @@
 # girlfriend-portfolio
 Resume
-https://ann-oksamytna.netlify.app/
+https://anna-oksamitna.netlify.app/
